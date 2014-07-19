@@ -1,4 +1,6 @@
 form_emails
 ===========
 
-example form in email
+Example form in email:
+
+![example form](./screenshot.png)
